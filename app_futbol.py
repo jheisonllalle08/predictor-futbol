@@ -756,6 +756,9 @@ with tab3:
             st.download_button("📥 Descargar Excel (CSV)", excel, "historial_predicciones.csv", "text/csv", use_container_width=True)
     else:
         st.info("Realiza predicciones para ver el historial aquí")
-
+st.markdown("---")
+st.markdown("### 📱 ¿Te gustó? ¡Compártela!")
+st.markdown("[⭐ Compartir en WhatsApp](https://wa.me/?text=Mira%20este%20predictor%20de%20f%C3%BAtbol%20con%20IA:%20https://predictor-futbol-blkgvvjsss5xsnlsbdjujo.streamlit.app)")
+st.markdown("[⭐ Compartir en Facebook](https://www.facebook.com/sharer/sharer.php?u=https://predictor-futbol-blkgvvjsss5xsnlsbdjujo.streamlit.app)")
 st.markdown("---")
 st.caption("⚽ Predictor de Fútbol Premium| Creado por [JHEISON LLALLE] | 211 Selecciones FIFA | +160 Clubes | Over/Under | Gráficos | Simulador | © 2024")
